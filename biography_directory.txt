@@ -2,3 +2,8 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+
+FOOJIJI
+    - Born:3035, NEWYORK, USA
+    - Hobby: pickle ball
+    - Profession: student
